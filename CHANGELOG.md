@@ -1,7 +1,7 @@
 ## 1.0.0-RC4(Mar 22, 2019)
 * [#923] Nacos 1.0.0 compatible with nacos-client 0.6.2
 * [#938] Client beat processor task lost
-* [#946] Change default server mode to AP
+* [#946] Change default server mode to AP11
 
 
 
